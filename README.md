@@ -27,7 +27,7 @@ It provides real-time **hazard detection**, **predictive movement tracking**, **
 
 ---
 
-## 📸 Real-Time Hazard Detection (Mockup)
+## 📸 Real-Time Hazard Detection
 <img width="403" height="599" alt="image" src="https://github.com/user-attachments/assets/20d321f9-1b91-4df0-af2c-f61d700ffbd4" />
 
 
