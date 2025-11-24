@@ -23,7 +23,7 @@ It provides real-time **hazard detection**, **predictive movement tracking**, **
 
 ## 🎨 App Branding
 
-![App Logo](/mnt/data/A_flat_vector_graphic_features_a_logo_consisting_o.png)
+<img width="356" height="627" alt="image" src="https://github.com/user-attachments/assets/f851a375-43c9-47ea-8e91-34405261b871" />
 
 ---
 
